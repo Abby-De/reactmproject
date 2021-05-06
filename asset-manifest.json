@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactmproject/static/css/main.3428a5ec.chunk.css",
+    "main.js": "/reactmproject/static/js/main.102b482c.chunk.js",
+    "main.js.map": "/reactmproject/static/js/main.102b482c.chunk.js.map",
+    "runtime-main.js": "/reactmproject/static/js/runtime-main.bba1dcc9.js",
+    "runtime-main.js.map": "/reactmproject/static/js/runtime-main.bba1dcc9.js.map",
+    "static/css/2.76fdcef6.chunk.css": "/reactmproject/static/css/2.76fdcef6.chunk.css",
+    "static/js/2.586762b5.chunk.js": "/reactmproject/static/js/2.586762b5.chunk.js",
+    "static/js/2.586762b5.chunk.js.map": "/reactmproject/static/js/2.586762b5.chunk.js.map",
+    "index.html": "/reactmproject/index.html",
+    "static/css/2.76fdcef6.chunk.css.map": "/reactmproject/static/css/2.76fdcef6.chunk.css.map",
+    "static/css/main.3428a5ec.chunk.css.map": "/reactmproject/static/css/main.3428a5ec.chunk.css.map",
+    "static/js/2.586762b5.chunk.js.LICENSE.txt": "/reactmproject/static/js/2.586762b5.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/reactmproject/static/media/tech.7a6d8be5.png",
+    "static/media/font-awesome.min.css": "/reactmproject/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba1dcc9.js",
+    "static/css/2.76fdcef6.chunk.css",
+    "static/js/2.586762b5.chunk.js",
+    "static/css/main.3428a5ec.chunk.css",
+    "static/js/main.102b482c.chunk.js"
+  ]
+}
